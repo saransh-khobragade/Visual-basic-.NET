@@ -1,0 +1,6 @@
+1.Install ms office for ms access(2007 recommended).
+2.Install Crytal report patch.
+3.Check Movie ticket booking is already not installed,if yes uninstalled.
+4.Go to folder run .exe or setup.
+5.It will ask to located resource folder,locate and you are done.
+

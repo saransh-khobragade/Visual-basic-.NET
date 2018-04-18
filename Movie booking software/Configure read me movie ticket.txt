@@ -1,0 +1,5 @@
+1.For printing tickets you need crystal report patch.
+2.For installing crystal report patch you need to install visual studios 2010
+3.if cant copy .exe to debug folder error comes delete exe in debug
+4.if ms access throw error for asking admin pass,place project in documents>vs 2010>project.
+5.Install Ms access.

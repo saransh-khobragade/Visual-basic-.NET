@@ -1,0 +1,5 @@
+Requirements:
+1.Ms access
+2.crystal report 2008
+3.dotnet framework 4.0
+4.Resource folder at given path.
